@@ -1,5 +1,3 @@
-print('pop')
-print('p')
-print('po')
-print('op')
-print('pp')
+print('gaju')
+print('singh')
+print('prince')
