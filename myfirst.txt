@@ -1,0 +1,5 @@
+print('pop')
+print('p')
+print('po')
+print('op')
+print('pp')
