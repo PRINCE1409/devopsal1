@@ -1,3 +1,4 @@
 print('gaju')
 print('singh')
-print('prince')
+print('gajanand')
+print('dhoni')
